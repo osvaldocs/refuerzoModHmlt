@@ -8,8 +8,8 @@ utilizando los assets brindados en el enucnciado.
 📁 Estructura del proyecto
 ```
 .
-├── modRefuerzo         # Carpeta conenedora
-  └── Assets      # Carpeta que contiene las imagenes y fuentes utilizadas
+├── modRefuerzo       # Carpeta conenedora
+  └── Assets          # Carpeta que contiene las imagenes y fuentes utilizadas
   └── index.html      # Archivo principal hmtl
   └── styles.css      # Archivo CSS donde creamos los estilos
 ```
