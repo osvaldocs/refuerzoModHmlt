@@ -31,5 +31,4 @@ utilizando los assets brindados en el enucnciado.
 ✍️ Autor:  
 - Pablo Jeremías Campos Rueda
 - Clan: LOVELACE
-- email: pablo_campos92@hotmail.com.ar
-- CE: 7962085
+
